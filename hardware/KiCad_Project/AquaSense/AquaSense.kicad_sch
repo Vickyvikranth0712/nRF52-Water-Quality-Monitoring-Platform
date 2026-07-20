@@ -2,9 +2,295 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid b59ceed3-61e6-476f-b90e-50a003c36e74)
+	(uuid "b59ceed3-61e6-476f-b90e-50a003c36e74")
 	(paper "A4")
+	(title_block
+		(title "AquaSense")
+		(date "2026-07-20")
+	)
 	(lib_symbols)
+	(sheet
+		(at 64.77 88.9)
+		(size 33.02 44.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "086a02a4-2dc3-415f-a1f6-42c68cf11fac")
+		(property "Sheetname" "Debug_Programming"
+			(at 64.77 88.1884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "05_Debug_Programming.kicad_sch"
+			(at 64.77 133.9346 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AquaSense"
+				(path "/b59ceed3-61e6-476f-b90e-50a003c36e74"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 107.315 88.9)
+		(size 34.29 44.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "69da725e-1eaa-4ac0-b226-c3c8dfae097c")
+		(property "Sheetname" "User_Interface"
+			(at 107.315 88.1884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "06_User_Interface.kicad_sch"
+			(at 107.315 133.9346 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AquaSense"
+				(path "/b59ceed3-61e6-476f-b90e-50a003c36e74"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 27.94)
+		(size 33.02 45.72)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "957b6cfc-5cca-4c3d-891b-790d9803ad0c")
+		(property "Sheetname" "nRF52832_Core"
+			(at 64.77 27.2284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "02_nRF52832_Core.kicad_sch"
+			(at 64.77 74.2446 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AquaSense"
+				(path "/b59ceed3-61e6-476f-b90e-50a003c36e74"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 27.94)
+		(size 31.75 45.72)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "bd0eb37f-6db1-4458-8208-5dcb424852f4")
+		(property "Sheetname" "Power"
+			(at 24.13 27.2284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "01_Power.kicad_sch"
+			(at 24.13 74.2446 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AquaSense"
+				(path "/b59ceed3-61e6-476f-b90e-50a003c36e74"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 107.315 27.305)
+		(size 33.02 45.72)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "eaa5163d-153a-4d57-937e-af250e4705c2")
+		(property "Sheetname" "ESP32_Module"
+			(at 107.315 26.5934 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "03_ESP32_Module.kicad_sch"
+			(at 107.315 73.6096 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AquaSense"
+				(path "/b59ceed3-61e6-476f-b90e-50a003c36e74"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 88.9)
+		(size 31.75 44.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "fbbcdddd-c22a-4192-ba33-2c63340aca20")
+		(property "Sheetname" "Sensor_Interfaces"
+			(at 24.13 88.1884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "04_Sensor_Interfaces.kicad_sch"
+			(at 24.13 133.9346 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AquaSense"
+				(path "/b59ceed3-61e6-476f-b90e-50a003c36e74"
+					(page "5")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
